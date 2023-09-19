@@ -1,1 +1,4 @@
-+fps_max 60 -tickrate 128 -novid -nojoy -fullscreen -r_emulate_gl -limitvsconst -forcenovsync -softparticlesdefaultoff +mat_queue_mode 2 +r_dynamic 0 +mat_disable_fancy_blending +cl_forcepreload 1 +cl_showfps 1 -lv +exec autoexec.cfg
++fps_max 60 -tickrate 128 -novid -nojoy -fullscreen -r_emulate_gl -limitvsconst -forcenovsync -softparticlesdefaultoff +mat_queue_mode 2 +r_dynamic 0 +mat_disable_fancy_blending +cl_forcepreload 1 +cl_showfps 1 -lv -freq 60 -noforcemspd -noforcemaccel -noforcemparms -noaafonts -high +mat_disable_fancy_blending 1 -nouserclip -no_compressed_verts -disallowhwmorph -lv +violence_ablood 0 +violence_agibs 0 +violence_hblood 0 +exec autoexec.cfg
+
+
+ 
